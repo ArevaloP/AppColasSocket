@@ -1,5 +1,4 @@
-# Socket Server Basico
+# NOTAS
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Aplicacion de colas
 
-Temas cubiertos en mi curso de Node de cero a experto
